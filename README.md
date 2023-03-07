@@ -1,6 +1,4 @@
-  <h1 align="left">  <img alt="Vector drawing of Melysa Nguyen" src="https://user-images.githubusercontent.com/91351147/223560299-95d4183d-3411-44e6-94ae-fab3b56cc9b9.svg" width="10%" height="10%"/> Hi there, I'm Melysa Nguyen!  </h1>
-
-<img alt="Wordmark of Melysa Nguyen" src="https://user-images.githubusercontent.com/91351147/223568071-586c632c-3e06-40a1-94b8-b2e6dd22a77d.svg" width="50%" height="50%"/>
+  <h1 align="left">  <img alt="Vector drawing of Melysa Nguyen" src="https://user-images.githubusercontent.com/91351147/223560299-95d4183d-3411-44e6-94ae-fab3b56cc9b9.svg" width="20%" height="20%"/> Hi there, I'm Melysa Nguyen!  </h1>
 
 <p>I’m a creative dreamer with a penchant of high level organization and details. I take every opportunity to emphasize with users to transform problems into solutions. In other words, dreams into reality. </p>
 
