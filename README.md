@@ -1,6 +1,11 @@
   <h1 align="left">Hi there, I'm Melysa Nguyen! </h1>
 
-<img alt="Vector drawing of Melysa Nguyen" src="https://user-images.githubusercontent.com/91351147/223560299-95d4183d-3411-44e6-94ae-fab3b56cc9b9.svg" width="20%" height="20%"/>   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melysan&show_icons=true&locale=en" alt="melysan" /></p>
+<img alt="Vector drawing of Melysa Nguyen" src="https://user-images.githubusercontent.com/91351147/223560299-95d4183d-3411-44e6-94ae-fab3b56cc9b9.svg" width="20%" height="20%"/> 
+
+<p>I’m a creative dreamer with a penchant of high level organization and details. I take every opportunity to emphasize with users to transform problems into solutions. In other words, dreams into reality. </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melysan&show_icons=true&locale=en" alt="melysan" /></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melysan&label=Profile%20views&color=0e75b6&style=flat" alt="melysan" /> </p>
 
 
